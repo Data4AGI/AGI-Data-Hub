@@ -121,7 +121,7 @@
 
 - 顶层设计：[Data4AGI](https://github.com/Data4AGI/)
 - 实体机构：[通用人工智能基础数据研究院（AGI-Data-Research）](https://github.com/Data4AGI/AGI-Data-Research)
-- 初创宣言：[通用人工智能基础数据初创计划（AGI-Data Initiative）](https://github.com/Data4AGI/AGI-Data-Initiative)
+- 初创宣言：[通用人工智能基础数据初创行动（AGI-Data Initiative）](https://github.com/Data4AGI/AGI-Data-Initiative)
 
 
 最后，通过 ChatGPT 生成了一个 logo：
