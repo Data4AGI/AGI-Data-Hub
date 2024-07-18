@@ -10,9 +10,9 @@
 </div>
 
 ### 一、定位
-使命：让开源数据惠及每一个人
-愿景：通过开源开放数据，推动社会进步和创新
-核心价值：开放、共享、普惠、创新
+- **使命**：让开源数据惠及每一个人
+- **愿景**：通过开源开放数据，推动社会进步和创新
+- **核心价值**：开放、共享、普惠、创新
 
 ### 二、项目架构
 
@@ -116,6 +116,13 @@
 #### 6、RedPajama
 
 [RedPajama](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)  是一个开源数据集项目，提供了30万亿标记的网络数据集，用于语言模型训练。该数据集从超过100万亿标记的原始数据中经过严格过滤和去重处理，涵盖了英语、法语、西班牙语、德语和意大利语五种语言。RedPajama-Data-v2 包含40多种预计算的质量注释，为进一步的数据过滤和加权提供了工具，是目前最大且专门为大型语言模型训练设计的公共数据集。
+
+### 八、组织模式
+
+- 顶层设计：[Data4AGI](https://github.com/Data4AGI/)
+- 实体机构：[通用人工智能基础数据研究院（AGI-Data-Research）](https://github.com/Data4AGI/AGI-Data-Research)
+- 初创宣言：[通用人工智能基础数据初创计划（AGI-Data Initiative）](https://github.com/Data4AGI/AGI-Data-Initiative)
+
 
 最后，通过 ChatGPT 生成了一个 logo：
 
